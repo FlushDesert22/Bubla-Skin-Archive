@@ -15,95 +15,95 @@ Here are some answers to questions you may have. If you have any questions that 
 
 ## Recreated (Still count as missing)
 ### Hats
-Scary
+- Scary
 ### Skins
-Orange
-Ninja V.2
-Love Potion
-Sunny
-Dilophosaurus
-Triceratops
-Nitro
+- Orange
+- Ninja V.2
+- Love Potion
+- Sunny
+- Dilophosaurus
+- Triceratops
+- Nitro
 
 ## Missing
 ### Hats
-Elf (No reference besides HatList.txt)
-Banana (No reference besides HatList.txt)
-Cap
-Classic (No reference besides HatList.txt)
-Cute
-Demon (No reference besides HatList.txt)
-Devil (No reference besides HatList.txt)
-Dragon (No reference besides HatList.txt)
-Evil (No reference besides HatList.txt)
-Fastfood (No reference besides HatList.txt)
-Fire (No reference besides HatList.txt)
-Octo
-Skull
-Snowman (No reference besides HatList.txt)
-Wizard 2
-Zombie (No reference besides HatList.txt)
+- Elf (No reference besides HatList.txt)
+- Banana (No reference besides HatList.txt)
+- Cap
+- Classic (No reference besides HatList.txt)
+- Cute
+- Demon (No reference besides HatList.txt)
+- Devil (No reference besides HatList.txt)
+- Dragon (No reference besides HatList.txt)
+- Evil (No reference besides HatList.txt)
+- Fastfood (No reference besides HatList.txt)
+- Fire (No reference besides HatList.txt)
+- Octo
+- Skull
+- Snowman (No reference besides HatList.txt)
+- Wizard 2
+- Zombie (No reference besides HatList.txt)
 ### Skins
-Bowling
-Dog V1
-Dog V2
-Tennis
-Rebel
-Bear
-Brontosaurus
-Velox
-Acoustic
-Drums
-Fan
-Guitar
-Microphone
-Notes
-Print
-Record
-Rockstar
-Cauldron
-Eyeball
-Lantern
-Mangled
-Revived
-Shining
-Undead
-Gingerbread
-Hat
-Lights
-Nerd
-Present
-Snowflake
-Star
-Freezy
-Kingly
-Pretty
-Scaredy
-Turkey
-Chocolatey
-Eggbuddies
-Eggy
-Insanely
-Pinky
-Plumpy
-Cactus
-Comodo
-Flower
-Mythical
-Cola
-Hamburger
-Hotdog
-Paprika
-Taco
-XFries
-Pumpkin 2
-Good Santa
-Snowman 2
-Sun
-Aerodactylus
-Stussy
-Zero
-Panoroma (No reference besides SkinList.txt)
-Panoroma 2 (No reference besides SkinList.txt)
-Daraen (No reference besides SkinList.txt)
-Magma
+- Bowling
+- Dog V1
+- Dog V2
+- Tennis
+- Rebel
+- Bear
+- Brontosaurus
+- Velox
+- Acoustic
+- Drums
+- Fan
+- Guitar
+- Microphone
+- Notes
+- Print
+- Record
+- Rockstar
+- Cauldron
+- Eyeball
+- Lantern
+- Mangled
+- Revived
+- Shining
+- Undead
+- Gingerbread
+- Hat
+- Lights
+- Nerd
+- Present
+- Snowflake
+- Star
+- Freezy
+- Kingly
+- Pretty
+- Scaredy
+- Turkey
+- Chocolatey
+- Eggbuddies
+- Eggy
+- Insanely
+- Pinky
+- Plumpy
+- Cactus
+- Comodo
+- Flower
+- Mythical
+- Cola
+- Hamburger
+- Hotdog
+- Paprika
+- Taco
+- XFries
+- Pumpkin 2
+- Good Santa
+- Snowman 2
+- Sun
+- Aerodactylus
+- Stussy
+- Zero
+- Panoroma (No reference besides SkinList.txt)
+- Panoroma 2 (No reference besides SkinList.txt)
+- Daraen (No reference besides SkinList.txt)
+- Magma
