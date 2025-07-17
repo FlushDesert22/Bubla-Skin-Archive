@@ -1,0 +1,5 @@
+Banana,Classic,Demon,Devil,Dragon,Evil,Fastfood,Fire,Snowman,Zombie,Octo,Cute,Wizard,Skull,Scary,Cat,Crown,Umbrella,Shark,Dog,Fluffy,Cap,Fluid,Bunny,Lord,Enchanted,Bestowed,King,Queen,Educated,Royal,Tiara
+(Xgar.io's hastList.txt stops here and to my knowledge, it includes every hat from Xgar.io, but it's missing some hats from Bubla.io. The missing hats are "Jura"(which stands for Jurassic), "Bubx"(which stands for BubbleBALZ), along with some hats from Gaver.io, which are "Santa", "Crown", "Irish", "Penguin", and "Elf". I have no idea what the hats before "Octo" are)
+ 
+Copied from an archive of Xgar.io's hatList.txt (Obtained from Archive.org's Wayback Machine)
+https://web.archive.org/web/20191118005136/https://xgar.io/hatList.txt?id=9
