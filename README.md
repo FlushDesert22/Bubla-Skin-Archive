@@ -1,5 +1,6 @@
 # Bubla Skin Archive
-This is a collection of skins and hats from Bubla.io, Xgar.io, Fanix.io, Bublex.io, and Sphera_Connect (when that still had an IO game). I will be using "skins" to refer to both skins and hats. You can view these skins on my Github Pages:  https://flushdesert22.github.io#bubla_skin_collection
+This is a collection of skins and hats from Bubla.io, Xgar.io, Fanix.io, Bublex.io, and Sphera_Connect (when that still had an IO game). I will be using "skins" to refer to both skins and hats. You can view these skins on my Github Pages:  
+https://flushdesert22.github.io#bubla_skin_collection
 
 ![](https://flushdesert22.github.io/images/thumbnails/bubla_skin_archive.png)
 
