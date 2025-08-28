@@ -2,7 +2,7 @@
 This is a collection of skins and hats from Bubla.io, Xgar.io, Fanix.io, Bublex.io, and Sphera_Connect (when that still had an IO game). I will be using "skins" to refer to both skins and hats. You can view these skins on my Github Pages:
 https://flushdesert22.github.io#bubla_skin_collection
 
-![](https://flushdesert22.github.io/images/background_darkened.png)
+![](https://flushdesert22.github.io/images/thumbnails/bubla_skin_archive.png)
 
 The skins made specifically for these games are made by Jurassic/Luca (https://www.youtube.com/@Xgarioml or https://www.youtube.com/@bublez), BenciARTz (Link Here: https://www.youtube.com/@TimberAgario), Zero (No link), and Shakura from Shady (Shakura and Andy. Link Here: https://www.youtube.com/@HibbohotelNL). Other skins were made by GetDeadKid (https://www.youtube.com/@GetDeadKids) or just random images Luca used (Like with Burnman and Fishy)
 
