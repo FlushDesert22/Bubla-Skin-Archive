@@ -12,9 +12,11 @@ Some skins that were obtained from Bublex: "Chick", "Friday", "Man", and "Snowma
 
 Here are some answers to questions you may have. If you have any questions that aren't answered in this list, please post them in an issue on the repo for this project.
 
-- Why are you doing this? The same reason I support "Stop Killing Games"; I think media and art preservation is extremely important and something everyone should care about. I don't think media should be lost to time, it's a part of history after all. And when it comes to these skins, to me, they represent my favorite era of web-games, no matter how toxic, reactionary, and shady a lot of the people were/are. Also, I just want them.
+- Why are you doing this?
+  The same reason I support "Stop Killing Games"; I think media and art preservation is extremely important and something everyone should care about. I don't think media should be lost to time, it's a part of history after all. And when it comes to these skins, to me, they represent my favorite era of web-games, no matter how toxic, reactionary, and shady a lot of the people were/are. Also, I just want them.
   
-- Why do you count skins as "missing" even if they are in the Resized and Borderd Bublex.io skin catagory? And why don't you use them as references. Because those skins are edited and I want skins that are as close to the originals as possible. I don't use them as references becasuse I think that would be kinda confusing.
+- Why do you count skins as "missing" even if they are in the Resized and Borderd Bublex.io skin catagory? And why don't you use them as references?
+  Because those skins are edited and I want skins that are as close to the originals as possible. I don't use them as references becasuse I think that would be kinda confusing.
 
 ## Recreated (Still count as missing)
 ### Hats
