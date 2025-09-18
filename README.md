@@ -56,7 +56,6 @@ Here are some answers to questions you may have. If you have any questions that 
 - Rebel
 - Bear
 - Brontosaurus
-- Velox
 - Acoustic
 - Drums
 - Fan
@@ -92,7 +91,6 @@ Here are some answers to questions you may have. If you have any questions that 
 - Pinky
 - Plumpy
 - Cactus
-- Comodo
 - Flower
 - Mythical
 - Cola
