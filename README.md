@@ -24,7 +24,6 @@ Here are some answers to questions you may have. If you have any questions that 
 ### Skins
 - Orange
 - Ninja V.2
-- Love Potion
 - Sunny
 - Dilophosaurus
 - Triceratops
@@ -92,7 +91,6 @@ Here are some answers to questions you may have. If you have any questions that 
 - Plumpy
 - Cactus
 - Flower
-- Mythical
 - Cola
 - Hamburger
 - Hotdog
