@@ -98,8 +98,6 @@ Here are some answers to questions you may have. If you have any questions that 
 - Taco
 - XFries
 - Pumpkin 2
-- Good Santa
-- Snowman 2
 - Sun
 - Aerodactylus
 - Stussy
