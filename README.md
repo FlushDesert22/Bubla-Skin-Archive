@@ -1,5 +1,5 @@
 # Bubla Skin Archive
-This is a collection of skins and hats from Bubla.io, Xgar.io, Fanix.io, Bublex.io, and Sphera_Connect (when that still had an IO game). I will be using "skins" to refer to both skins and hats. You can view these skins on my Github Pages:  
+This is a collection of skins and hats from Bubla.io, Xgar.io, Fanix.io, Bublex.io, Globia.io, and Sphera_Connect (when that still had an IO game). I will be using "skins" to refer to both skins and hats. You can view these skins on my Github Pages:  
 https://flushdesert22.github.io#bubla_skin_collection
 
 ![](https://flushdesert22.github.io/images/thumbnails/bubla_skin_archive.png)
@@ -9,6 +9,8 @@ The skins made specifically for these games are made by Jurassic/Luca (https://w
 This collection is incomplete because some skins and hats are missing. You can find references of them in the "Missing" folder, however for some, I can't find a reference for. If you have any of them, even the ones I remade, please post them in an issue on the repo for this project. You can remake them if you want but the goal is to have the original skins and hats, not recreations. So yes, recreations still count as missing.
 
 Some skins that were obtained from Bublex: "Chick", "Friday", "Man", and "Snowman 1", as well as a YouTube profile picture: "Evil Ghost", and Instagram: "Coin 3" have what looks like JPEG compression artifacts (The "Coin 3" file I downloaded is a JPEG so that makes sense), which can make the skins look blurry if you use them in-game. If you have any of these skins without artifacts please post them in an issue on the repo for this project.
+
+Most of the skins from Globia.io are (probably) AI generated.
 
 Here are some answers to questions you may have. If you have any questions that aren't answered in this list, please post them in an issue on the repo for this project.
 
